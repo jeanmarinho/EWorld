@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: 00d33b64de3a64b4ea5b15da483925e3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature_Braco_D
+    100002: Armature_Braco_E
+    100004: Armature_Perna1_D
+    100006: Armature_Perna1_E
+    100008: Armature_Perna2_D
+    100010: Armature_Perna2_E
+    100012: Cabe_a
+    100014: Corpo
+    100016: PetalaGrande1
+    100018: PetalaGrande2
+    100020: PetalaGrande3
+    100022: PetalaGrande4
+    100024: PetalaPequena1
+    100026: PetalaPequena2
+    100028: PetalaPequena3
+    100030: PetalaPequena4
+    100032: //RootNode
+    100034: Tentaculo_000
+    100036: Tentaculo_001
+    100038: Tentaculo_002
+    100040: Tentaculo_003
+    100042: Tentaculo_004
+    100044: Tentaculo_006
+    100046: Tentaculo_R_Frente_1
+    100048: Tentaculo_R_Frente_10
+    100050: Tentaculo_R_Frente_11
+    100052: Tentaculo_R_Frente_12
+    100054: Tentaculo_R_Frente_13
+    100056: Tentaculo_R_Frente_14
+    100058: Tentaculo_R_Frente_15
+    100060: Tentaculo_R_Frente_16
+    100062: Tentaculo_R_Frente_17
+    100064: Tentaculo_R_Frente_18
+    100066: Tentaculo_R_Frente_19
+    100068: Tentaculo_R_Frente_2
+    100070: Tentaculo_R_Frente_20
+    100072: Tentaculo_R_Frente_21
+    100074: Tentaculo_R_Frente_22
+    100076: Tentaculo_R_Frente_23
+    100078: Tentaculo_R_Frente_24
+    100080: Tentaculo_R_Frente_25
+    100082: Tentaculo_R_Frente_26
+    100084: Tentaculo_R_Frente_27
+    100086: Tentaculo_R_Frente_28
+    100088: Tentaculo_R_Frente_29
+    100090: Tentaculo_R_Frente_3
+    100092: Tentaculo_R_Frente_30
+    100094: Tentaculo_R_Frente_4
+    100096: Tentaculo_R_Frente_5
+    100098: Tentaculo_R_Frente_6
+    100100: Tentaculo_R_Frente_7
+    100102: Tentaculo_R_Frente_8
+    100104: Tentaculo_R_Frente_9
+    400000: Armature_Braco_D
+    400002: Armature_Braco_E
+    400004: Armature_Perna1_D
+    400006: Armature_Perna1_E
+    400008: Armature_Perna2_D
+    400010: Armature_Perna2_E
+    400012: Cabe_a
+    400014: Corpo
+    400016: PetalaGrande1
+    400018: PetalaGrande2
+    400020: PetalaGrande3
+    400022: PetalaGrande4
+    400024: PetalaPequena1
+    400026: PetalaPequena2
+    400028: PetalaPequena3
+    400030: PetalaPequena4
+    400032: //RootNode
+    400034: Tentaculo_000
+    400036: Tentaculo_001
+    400038: Tentaculo_002
+    400040: Tentaculo_003
+    400042: Tentaculo_004
+    400044: Tentaculo_006
+    400046: Tentaculo_R_Frente_1
+    400048: Tentaculo_R_Frente_10
+    400050: Tentaculo_R_Frente_11
+    400052: Tentaculo_R_Frente_12
+    400054: Tentaculo_R_Frente_13
+    400056: Tentaculo_R_Frente_14
+    400058: Tentaculo_R_Frente_15
+    400060: Tentaculo_R_Frente_16
+    400062: Tentaculo_R_Frente_17
+    400064: Tentaculo_R_Frente_18
+    400066: Tentaculo_R_Frente_19
+    400068: Tentaculo_R_Frente_2
+    400070: Tentaculo_R_Frente_20
+    400072: Tentaculo_R_Frente_21
+    400074: Tentaculo_R_Frente_22
+    400076: Tentaculo_R_Frente_23
+    400078: Tentaculo_R_Frente_24
+    400080: Tentaculo_R_Frente_25
+    400082: Tentaculo_R_Frente_26
+    400084: Tentaculo_R_Frente_27
+    400086: Tentaculo_R_Frente_28
+    400088: Tentaculo_R_Frente_29
+    400090: Tentaculo_R_Frente_3
+    400092: Tentaculo_R_Frente_30
+    400094: Tentaculo_R_Frente_4
+    400096: Tentaculo_R_Frente_5
+    400098: Tentaculo_R_Frente_6
+    400100: Tentaculo_R_Frente_7
+    400102: Tentaculo_R_Frente_8
+    400104: Tentaculo_R_Frente_9
+    2300000: Cabe_a
+    2300002: Corpo
+    2300004: PetalaGrande1
+    2300006: PetalaGrande2
+    2300008: PetalaGrande3
+    2300010: PetalaGrande4
+    2300012: PetalaPequena1
+    2300014: PetalaPequena2
+    2300016: PetalaPequena3
+    2300018: PetalaPequena4
+    3300000: Cabe_a
+    3300002: Corpo
+    3300004: PetalaGrande1
+    3300006: PetalaGrande2
+    3300008: PetalaGrande3
+    3300010: PetalaGrande4
+    3300012: PetalaPequena1
+    3300014: PetalaPequena2
+    3300016: PetalaPequena3
+    3300018: PetalaPequena4
+    4300000: Tentaculo_000
+    4300002: Tentaculo_004
+    4300004: Tentaculo_002
+    4300006: Tentaculo_006
+    4300008: Tentaculo_003
+    4300010: Tentaculo_001
+    4300012: Cabe_a
+    4300014: PetalaPequena4
+    4300016: PetalaPequena3
+    4300018: PetalaPequena2
+    4300020: PetalaPequena1
+    4300022: PetalaGrande4
+    4300024: PetalaGrande3
+    4300026: PetalaGrande2
+    4300028: PetalaGrande1
+    4300030: Corpo
+    6400000: Cabe_a
+    6400002: Corpo
+    6400004: PetalaGrande1
+    6400006: PetalaGrande2
+    6400008: PetalaGrande3
+    6400010: PetalaGrande4
+    6400012: PetalaPequena1
+    6400014: PetalaPequena2
+    6400016: PetalaPequena3
+    6400018: PetalaPequena4
+    7400000: Default Take
+    7400002: Armature_002Action
+    7400004: Armature_003Action
+    7400006: Armature_004Action
+    7400008: Armature_005Action
+    7400010: Armature_Braco_DAction
+    7400012: Armature_Braco_EAction
+    9500000: //RootNode
+    13700000: Tentaculo_000
+    13700002: Tentaculo_001
+    13700004: Tentaculo_002
+    13700006: Tentaculo_003
+    13700008: Tentaculo_004
+    13700010: Tentaculo_006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 200
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Braco_D
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4/Tentaculo_R_Frente_5
+        weight: 1
+      - path: Armature_Braco_E
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29/Tentaculo_R_Frente_30
+        weight: 1
+      - path: Armature_Perna1_D
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24/Tentaculo_R_Frente_25
+        weight: 1
+      - path: Armature_Perna1_E
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9/Tentaculo_R_Frente_10
+        weight: 1
+      - path: Armature_Perna2_D
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19/Tentaculo_R_Frente_20
+        weight: 1
+      - path: Armature_Perna2_E
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14/Tentaculo_R_Frente_15
+        weight: 1
+      - path: Cabe_a
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: PetalaGrande1
+        weight: 1
+      - path: PetalaGrande2
+        weight: 1
+      - path: PetalaGrande3
+        weight: 1
+      - path: PetalaGrande4
+        weight: 1
+      - path: PetalaPequena1
+        weight: 1
+      - path: PetalaPequena2
+        weight: 1
+      - path: PetalaPequena3
+        weight: 1
+      - path: PetalaPequena4
+        weight: 1
+      - path: Tentaculo_000
+        weight: 1
+      - path: Tentaculo_001
+        weight: 1
+      - path: Tentaculo_002
+        weight: 1
+      - path: Tentaculo_003
+        weight: 1
+      - path: Tentaculo_004
+        weight: 1
+      - path: Tentaculo_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_002Action
+      takeName: Armature_002Action
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Braco_D
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4/Tentaculo_R_Frente_5
+        weight: 1
+      - path: Armature_Braco_E
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29/Tentaculo_R_Frente_30
+        weight: 1
+      - path: Armature_Perna1_D
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24/Tentaculo_R_Frente_25
+        weight: 1
+      - path: Armature_Perna1_E
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9/Tentaculo_R_Frente_10
+        weight: 1
+      - path: Armature_Perna2_D
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19/Tentaculo_R_Frente_20
+        weight: 1
+      - path: Armature_Perna2_E
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14/Tentaculo_R_Frente_15
+        weight: 1
+      - path: Cabe_a
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: PetalaGrande1
+        weight: 1
+      - path: PetalaGrande2
+        weight: 1
+      - path: PetalaGrande3
+        weight: 1
+      - path: PetalaGrande4
+        weight: 1
+      - path: PetalaPequena1
+        weight: 1
+      - path: PetalaPequena2
+        weight: 1
+      - path: PetalaPequena3
+        weight: 1
+      - path: PetalaPequena4
+        weight: 1
+      - path: Tentaculo_000
+        weight: 1
+      - path: Tentaculo_001
+        weight: 1
+      - path: Tentaculo_002
+        weight: 1
+      - path: Tentaculo_003
+        weight: 1
+      - path: Tentaculo_004
+        weight: 1
+      - path: Tentaculo_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_003Action
+      takeName: Armature_003Action
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Braco_D
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4/Tentaculo_R_Frente_5
+        weight: 1
+      - path: Armature_Braco_E
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29/Tentaculo_R_Frente_30
+        weight: 1
+      - path: Armature_Perna1_D
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24/Tentaculo_R_Frente_25
+        weight: 1
+      - path: Armature_Perna1_E
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9/Tentaculo_R_Frente_10
+        weight: 1
+      - path: Armature_Perna2_D
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19/Tentaculo_R_Frente_20
+        weight: 1
+      - path: Armature_Perna2_E
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14/Tentaculo_R_Frente_15
+        weight: 1
+      - path: Cabe_a
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: PetalaGrande1
+        weight: 1
+      - path: PetalaGrande2
+        weight: 1
+      - path: PetalaGrande3
+        weight: 1
+      - path: PetalaGrande4
+        weight: 1
+      - path: PetalaPequena1
+        weight: 1
+      - path: PetalaPequena2
+        weight: 1
+      - path: PetalaPequena3
+        weight: 1
+      - path: PetalaPequena4
+        weight: 1
+      - path: Tentaculo_000
+        weight: 1
+      - path: Tentaculo_001
+        weight: 1
+      - path: Tentaculo_002
+        weight: 1
+      - path: Tentaculo_003
+        weight: 1
+      - path: Tentaculo_004
+        weight: 1
+      - path: Tentaculo_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_004Action
+      takeName: Armature_004Action
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Braco_D
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4/Tentaculo_R_Frente_5
+        weight: 1
+      - path: Armature_Braco_E
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29/Tentaculo_R_Frente_30
+        weight: 1
+      - path: Armature_Perna1_D
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24/Tentaculo_R_Frente_25
+        weight: 1
+      - path: Armature_Perna1_E
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9/Tentaculo_R_Frente_10
+        weight: 1
+      - path: Armature_Perna2_D
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19/Tentaculo_R_Frente_20
+        weight: 1
+      - path: Armature_Perna2_E
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14/Tentaculo_R_Frente_15
+        weight: 1
+      - path: Cabe_a
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: PetalaGrande1
+        weight: 1
+      - path: PetalaGrande2
+        weight: 1
+      - path: PetalaGrande3
+        weight: 1
+      - path: PetalaGrande4
+        weight: 1
+      - path: PetalaPequena1
+        weight: 1
+      - path: PetalaPequena2
+        weight: 1
+      - path: PetalaPequena3
+        weight: 1
+      - path: PetalaPequena4
+        weight: 1
+      - path: Tentaculo_000
+        weight: 1
+      - path: Tentaculo_001
+        weight: 1
+      - path: Tentaculo_002
+        weight: 1
+      - path: Tentaculo_003
+        weight: 1
+      - path: Tentaculo_004
+        weight: 1
+      - path: Tentaculo_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_005Action
+      takeName: Armature_005Action
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Braco_D
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4/Tentaculo_R_Frente_5
+        weight: 1
+      - path: Armature_Braco_E
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29/Tentaculo_R_Frente_30
+        weight: 1
+      - path: Armature_Perna1_D
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24/Tentaculo_R_Frente_25
+        weight: 1
+      - path: Armature_Perna1_E
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9/Tentaculo_R_Frente_10
+        weight: 1
+      - path: Armature_Perna2_D
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19/Tentaculo_R_Frente_20
+        weight: 1
+      - path: Armature_Perna2_E
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14/Tentaculo_R_Frente_15
+        weight: 1
+      - path: Cabe_a
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: PetalaGrande1
+        weight: 1
+      - path: PetalaGrande2
+        weight: 1
+      - path: PetalaGrande3
+        weight: 1
+      - path: PetalaGrande4
+        weight: 1
+      - path: PetalaPequena1
+        weight: 1
+      - path: PetalaPequena2
+        weight: 1
+      - path: PetalaPequena3
+        weight: 1
+      - path: PetalaPequena4
+        weight: 1
+      - path: Tentaculo_000
+        weight: 1
+      - path: Tentaculo_001
+        weight: 1
+      - path: Tentaculo_002
+        weight: 1
+      - path: Tentaculo_003
+        weight: 1
+      - path: Tentaculo_004
+        weight: 1
+      - path: Tentaculo_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Braco_DAction
+      takeName: Armature_Braco_DAction
+      firstFrame: 59
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Braco_D
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4/Tentaculo_R_Frente_5
+        weight: 1
+      - path: Armature_Braco_E
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29/Tentaculo_R_Frente_30
+        weight: 1
+      - path: Armature_Perna1_D
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24/Tentaculo_R_Frente_25
+        weight: 1
+      - path: Armature_Perna1_E
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9/Tentaculo_R_Frente_10
+        weight: 1
+      - path: Armature_Perna2_D
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19/Tentaculo_R_Frente_20
+        weight: 1
+      - path: Armature_Perna2_E
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14/Tentaculo_R_Frente_15
+        weight: 1
+      - path: Cabe_a
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: PetalaGrande1
+        weight: 1
+      - path: PetalaGrande2
+        weight: 1
+      - path: PetalaGrande3
+        weight: 1
+      - path: PetalaGrande4
+        weight: 1
+      - path: PetalaPequena1
+        weight: 1
+      - path: PetalaPequena2
+        weight: 1
+      - path: PetalaPequena3
+        weight: 1
+      - path: PetalaPequena4
+        weight: 1
+      - path: Tentaculo_000
+        weight: 1
+      - path: Tentaculo_001
+        weight: 1
+      - path: Tentaculo_002
+        weight: 1
+      - path: Tentaculo_003
+        weight: 1
+      - path: Tentaculo_004
+        weight: 1
+      - path: Tentaculo_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Braco_EAction
+      takeName: Armature_Braco_EAction
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Braco_D
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4
+        weight: 1
+      - path: Armature_Braco_D/Tentaculo_R_Frente_1/Tentaculo_R_Frente_2/Tentaculo_R_Frente_3/Tentaculo_R_Frente_4/Tentaculo_R_Frente_5
+        weight: 1
+      - path: Armature_Braco_E
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29
+        weight: 1
+      - path: Armature_Braco_E/Tentaculo_R_Frente_26/Tentaculo_R_Frente_27/Tentaculo_R_Frente_28/Tentaculo_R_Frente_29/Tentaculo_R_Frente_30
+        weight: 1
+      - path: Armature_Perna1_D
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24
+        weight: 1
+      - path: Armature_Perna1_D/Tentaculo_R_Frente_21/Tentaculo_R_Frente_22/Tentaculo_R_Frente_23/Tentaculo_R_Frente_24/Tentaculo_R_Frente_25
+        weight: 1
+      - path: Armature_Perna1_E
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9
+        weight: 1
+      - path: Armature_Perna1_E/Tentaculo_R_Frente_6/Tentaculo_R_Frente_7/Tentaculo_R_Frente_8/Tentaculo_R_Frente_9/Tentaculo_R_Frente_10
+        weight: 1
+      - path: Armature_Perna2_D
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19
+        weight: 1
+      - path: Armature_Perna2_D/Tentaculo_R_Frente_16/Tentaculo_R_Frente_17/Tentaculo_R_Frente_18/Tentaculo_R_Frente_19/Tentaculo_R_Frente_20
+        weight: 1
+      - path: Armature_Perna2_E
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14
+        weight: 1
+      - path: Armature_Perna2_E/Tentaculo_R_Frente_11/Tentaculo_R_Frente_12/Tentaculo_R_Frente_13/Tentaculo_R_Frente_14/Tentaculo_R_Frente_15
+        weight: 1
+      - path: Cabe_a
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: PetalaGrande1
+        weight: 1
+      - path: PetalaGrande2
+        weight: 1
+      - path: PetalaGrande3
+        weight: 1
+      - path: PetalaGrande4
+        weight: 1
+      - path: PetalaPequena1
+        weight: 1
+      - path: PetalaPequena2
+        weight: 1
+      - path: PetalaPequena3
+        weight: 1
+      - path: PetalaPequena4
+        weight: 1
+      - path: Tentaculo_000
+        weight: 1
+      - path: Tentaculo_001
+        weight: 1
+      - path: Tentaculo_002
+        weight: 1
+      - path: Tentaculo_003
+        weight: 1
+      - path: Tentaculo_004
+        weight: 1
+      - path: Tentaculo_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
